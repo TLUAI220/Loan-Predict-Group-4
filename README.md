@@ -18,5 +18,6 @@ This project aims to build a machine learning model to predict loan approval sta
 - Jupyter Notebook
 - Fast Api
 - NextJs
+- Docker
 
 
